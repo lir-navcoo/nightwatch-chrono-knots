@@ -1,1 +1,287 @@
-ZXhwb3J0IGludGVyZmFjZSBBcnRpZmFjdCB7CiAgaWQ6IHN0cmluZwogIG5hbWU6IHN0cmluZwogIHllYXI6IG51bWJlcgogIGRlc2NyaXB0aW9uOiBzdHJpbmcKICBpc0FuY2hvcj86IGJvb2xlYW4KICBjaGFwdGVySWQ6IG51bWJlcgp9CgpleHBvcnQgaW50ZXJmYWNlIExldmVsIHsKICBpZDogbnVtYmVyCiAgY2hhcHRlcjogbnVtYmVyCiAgY2hhcHRlck5hbWU6IHN0cmluZwogIGxldmVsOiBudW1iZXIKICB0aXRsZTogc3RyaW5nCiAgYXJ0aWZhY3RzOiBBcnRpZmFjdFtdCiAgYW5jaG9yczogc3RyaW5nW10gIC8vIGFydGlmYWN0IGlkcyB0aGF0IGFyZSBmaXhlZCBhbmNob3JzCiAgaGludD86IHN0cmluZwp9Cgpjb25zdCBDSEFQVEVSX05BTUVTID0gWwogICfpnZLpk5zml7bku6MnLAogICfkuJ3ot6/po47ljY4nLAogICfnk7fpn7XljYPnp4snLAogICfnv7DloqjkuLnpnZInLAogICfml7blhYnkuYvnu5MnLApdCgpleHBvcnQgY29uc3QgbGV2ZWxzOiBMZXZlbFtdID0gWwogIC8vIOKUgOKUgOKUgCDnrKzkuIDnq6DvvJrpnZLpk5zml7bku6PvvIgz5Lu25paH54mp77yJ4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACiAgewogICAgaWQ6IDEsCiAgICBjaGFwdGVyOiAxLAogICAgY2hhcHRlck5hbWU6IENIQVBURVJfTkFNRVNbMF0sCiAgICBsZXZlbDogMSwKICAgIHRpdGxlOiAn6Z2S6ZOc5LmL5YWJJywKICAgIGFydGlmYWN0czogWwogICAgICB7IGlkOiAnYTEnLCBuYW1lOiAn5ZCO5q+N5oiK6byOJywgeWVhcjogLTEyMDAsIGRlc2NyaXB0aW9uOiAn5ZWG5Luj6Z2S6ZOc5Zmo77yM6byO5Lit5LmL546LJywgY2hhcHRlcklkOiAxIH0sCiAgICAgIHsgaWQ6ICdhMicsIG5hbWU6ICflm5vnvormlrnlsIonLCB5ZWFyOiAtMTIwMCwgZGVzY3JpcHRpb246ICfllYbku6PnpLzlmajvvIzpk7jkuo7llYbmnJ3mmZrmnJ8nLCBjaGFwdGVySWQ6IDEgfSwKICAgICAgeyBpZDogJ2EzJywgbmFtZTogJ+i2iueOi+WLvui3teWJkScsIHllYXI6IC01MDAsIGRlc2NyaXB0aW9uOiAn5pil56eL5pe25pyf6Z2S6ZOc5YmR77yM5LiN6ZSI5LmL6LCcJywgY2hhcHRlcklkOiAxIH0sCiAgICBdLAogICAgYW5jaG9yczogW10sCiAgICBoaW50OiAn5ZCO5q+N5oiK6byO5LiO5Zub576K5pa55bCK5ZCM5Li65ZWG5Luj77yM6K+35rOo5oSP5a6D5Lus5LmL6Ze055qE57uG5b6u5bm05Luj5beu5byCJywKICB9LAogIHsKICAgIGlkOiAyLAogICAgY2hhcHRlcjogMSwKICAgIGNoYXB0ZXJOYW1lOiBDSEFQVEVSX05BTUVTWzBdLAogICAgbGV2ZWw6IDIsCiAgICB0aXRsZTogJ+mTreaWh+S5i+enmCcsCiAgICBhcnRpZmFjdHM6IFsKICAgICAgeyBpZDogJ2IxJywgbmFtZTogJ+Wkp+ebgum8jicsIHllYXI6IC0xMDAwLCBkZXNjcmlwdGlvbjogJ+ilv+WRqOaXqeacn++8jOiusOW9leW6t+eOi+WKn+e7qScsIGNoYXB0ZXJJZDogMSB9LAogICAgICB7IGlkOiAnYjInLCBuYW1lOiAn5pWj5rCP55uYJywgeWVhcjogLTkwMCwgZGVzY3JpcHRpb246ICfopb/lkajkuK3mmZrmnJ/vvIzlnJ/lnLDlpZHnuqbpk63mlocnLCBjaGFwdGVySWQ6IDEgfSwKICAgICAgeyBpZDogJ2IzJywgbmFtZTogJ+iZouWto+WtkOeZveebmCcsIHllYXI6IC04MDAsIGRlc2NyaXB0aW9uOiAn6KW/5ZGo5a6j546L5pe25pyf77yM6I2J5Y6f6aOO5qC8JywgY2hhcHRlcklkOiAxIH0sCiAgICBdLAogICAgYW5jaG9yczogW10sCiAgICBoaW50OiAn5LiJ5Lu25Z2H5Li66KW/5ZGo6Z2S6ZOc5Zmo77yM5oyJ5pep5Lit5pma5pyf5o6S5YiXJywKICB9LAogIHsKICAgIGlkOiAzLAogICAgY2hhcHRlcjogMSwKICAgIGNoYXB0ZXJOYW1lOiBDSEFQVEVSX05BTUVTWzBdLAogICAgbGV2ZWw6IDMsCiAgICB0aXRsZTogJ+aXtuWFiea0qua1gScsCiAgICBhcnRpZmFjdHM6IFsKICAgICAgeyBpZDogJ2MxJywgbmFtZTogJ+S4ieaYn+WghumdkumTnOmdouWFtycsIHllYXI6IC0xMjAwLCBkZXNjcmlwdGlvbjogJ+icgOWcsOelnuenmOaWh+aYjumBl+WtmCcsIGNoYXB0ZXJJZDogMSB9LAogICAgICB7IGlkOiAnYzInLCBuYW1lOiAn5pu+5L6v5LmZ57yW6ZKfJywgeWVhcjogLTQzMCwgZGVzY3JpcHRpb246ICfmiJjlm73ml6nmnJ/vvIzpn7PkuZDlpYfov7knLCBjaGFwdGVySWQ6IDEgfSwKICAgICAgeyBpZDogJ2MzJywgbmFtZTogJ+eOi+WtkOWNiOm8jicsIHllYXI6IC01MzAsIGRlc2NyaXB0aW9uOiAn5pil56eL5pma5pyf77yM5qWa5byP6Z2S6ZOcJywgY2hhcHRlcklkOiAxIH0sCiAgICBdLAogICAgYW5jaG9yczogW10sCiAgICBoaW50OiAn5LuO6JyA5Zyw5Yiw6I2G5qWa77yM6Leo6LaK5pWw55m+5bm055qE6Z2S6ZOc6K6w5b+GJywKICB9LAoKICAvLyDilIDilIDilIAg56ys5LqM56ug77ya5Lid6Lev6aOO5Y2O77yINOS7tuaWh+eJqSArIOmUmueCueW5suaJsO+8ieKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAogIHsKICAgIGlkOiA0LAogICAgY2hhcHRlcjogMiwKICAgIGNoYXB0ZXJOYW1lOiBDSEFQVEVSX05BTUVTWzFdLAogICAgbGV2ZWw6IDEsCiAgICB0aXRsZTogJ+S4nei3r+i1t+eCuScsCiAgICBhcnRpZmFjdHM6IFsKICAgICAgeyBpZDogJ2QxJywgbmFtZTogJ+mOj+mHkemTnOialScsIHllYXI6IC0xMDAsIGRlc2NyaXB0aW9uOiAn5rGJ5Luj77yM5YW76JqV5Lia6KeB6K+BJywgY2hhcHRlcklkOiAyIH0sCiAgICAgIHsgaWQ6ICdkMicsIG5hbWU6ICfkupTmmJ/lh7rkuJzmlrnplKYnLCB5ZWFyOiAyNSwgZGVzY3JpcHRpb246ICfmsYnplKbvvIzonIDlnLDnsr7nu50nLCBjaGFwdGVySWQ6IDIgfSwKICAgICAgeyBpZDogJ2QzJywgbmFtZTogJ+alvOWFsOWPpOWfjuaui+eJhycsIHllYXI6IDMwMCwgZGVzY3JpcHRpb246ICfprY/mmYvvvIzkuJ3ot6/pgZfnj40nLCBjaGFwdGVySWQ6IDIgfSwKICAgICAgeyBpZDogJ2Q0JywgbmFtZTogJ+WUkOS4ieW9qemqhumpvCcsIHllYXI6IDcwMCwgZGVzY3JpcHRpb246ICfnm5vllJDkuJ3nu7jkuYvot6/osaHlvoEnLCBjaGFwdGVySWQ6IDIgfSwKICAgIF0sCiAgICBhbmNob3JzOiBbJ2QyJ10sCiAgICBoaW50OiAn6ZSa54K55LqU5pif5Ye65Lic5pa56ZSm5piv5Lic5rGJ5Zmo54mp77yM5YW25LuW5paH54mp6K+35Lul5a6D5Li65Z+65YeG5o6o566XJywKICB9LAogIHsKICAgIGlkOiA1LAogICAgY2hhcHRlcjogMiwKICAgIGNoYXB0ZXJOYW1lOiBDSEFQVEVSX05BTUVTWzFdLAogICAgbGV2ZWw6IDIsCiAgICB0aXRsZTogJ+azouaWr+adpeWuoicsCiAgICBhcnRpZmFjdHM6IFsKICAgICAgeyBpZDogJ2UxJywgbmFtZTogJ+e9l+mprOeOu+eSg+eilycsIHllYXI6IDIwMCwgZGVzY3JpcHRpb246ICfkuJzmsYnvvIznvZfpqazluJ3lm73ov5vlj6MnLCBjaGFwdGVySWQ6IDIgfSwKICAgICAgeyBpZDogJ2UyJywgbmFtZTogJ+azouaWr+mTtuW4gScsIHllYXI6IDQwMCwgZGVzY3JpcHRpb246ICfljZfljJfmnJ3vvIzokKjnj4rms6Lmlq8nLCBjaGFwdGVySWQ6IDIgfSwKICAgICAgeyBpZDogJ2UzJywgbmFtZTogJ+aVpueFjOaYn+WbvicsIHllYXI6IDcwMCwgZGVzY3JpcHRpb246ICfllJDku6PvvIzmlabnhYzol4/nu4/mtJ4nLCBjaGFwdGVySWQ6IDIgfSwKICAgICAgeyBpZDogJ2U0JywgbmFtZTogJ+m7keefs+WPt+ayieiIuemdkueTtycsIHllYXI6IDg1MCwgZGVzY3JpcHRpb246ICfllJDku6PlpJbplIDnk7fvvIzotornqpHnsr7lk4EnLCBjaGFwdGVySWQ6IDIgfSwKICAgIF0sCiAgICBhbmNob3JzOiBbJ2UzJ10sCiAgICBoaW50OiAn5pWm54WM5pif5Zu+5piv5ZSQ5Luj6YGX5a2Y77yM5Lul5q2k5Li66ZSa54K55ZCR5aSW5o6o55CGJywKICB9LAogIHsKICAgIGlkOiA2LAogICAgY2hhcHRlcjogMiwKICAgIGNoYXB0ZXJOYW1lOiBDSEFQVEVSX05BTUVTWzFdLAogICAgbGV2ZWw6IDMsCiAgICB0aXRsZTogJ+aVpueFjOS9memfsycsCiAgICBhcnRpZmFjdHM6IFsKICAgICAgeyBpZDogJ2YxJywgbmFtZTogJ+aVpueFjOW4m+eUuycsIHllYXI6IDQwMCwgZGVzY3JpcHRpb246ICfljJflh4nvvIzkvZvmlZnoibrmnK/liJ3kvKAnLCBjaGFwdGVySWQ6IDIgfSwKICAgICAgeyBpZDogJ2YyJywgbmFtZTogJ+aVpueFjOWjgeeUu+WPjeW8ueeQteeQticsIHllYXI6IDYwMCwgZGVzY3JpcHRpb246ICfpmovku6PvvIzkuZDoiJ7po57lpKknLCBjaGFwdGVySWQ6IDIgfSwKICAgICAgeyBpZDogJ2YzJywgbmFtZTogJ+aVpueFjOaWh+S5picsIHllYXI6IDkwMCwgZGVzY3JpcHRpb246ICfllJDku6PvvIzlhpnnu4/kuI7lpZHnuqYnLCBjaGFwdGVySWQ6IDIgfSwKICAgICAgeyBpZDogJ2Y0JywgbmFtZTogJ+iOq+mrmOeqn+esrDE356qf6JeP57uP5rSeJywgeWVhcjogMTAwMCwgZGVzY3JpcHRpb246ICfljJflrovvvIzlsIHpl63kuYvosJwnLCBjaGFwdGVySWQ6IDIgfSwKICAgIF0sCiAgICBhbmNob3JzOiBbJ2YyJ10sCiAgICBoaW50OiAn6ZqL5Luj55qE5Y+N5by555C155C25piv5pys56ug55qE6ZSa54K577yM5ZCR5YmN5ZCO5o6o566X5YW25LuW5bm05LujJywKICB9LAoKICAvLyDilIDilIDilIAg56ys5LiJ56ug77ya55O36Z+15Y2D56eL77yINeKAkzbku7bmlofniakgKyDplJrngrnlubLmibDvvInilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKICB7CiAgICBpZDogNywKICAgIGNoYXB0ZXI6IDMsCiAgICBjaGFwdGVyTmFtZTogQ0hBUFRFUl9OQU1FU1syXSwKICAgIGxldmVsOiAxLAogICAgdGl0bGU6ICfpnZLnk7fkuYvnpZYnLAogICAgYXJ0aWZhY3RzOiBbCiAgICAgIHsgaWQ6ICdnMScsIG5hbWU6ICfljp/lp4vnk7fpnZLph4nlj4zns7vnvZAnLCB5ZWFyOiAtMTUwMCwgZGVzY3JpcHRpb246ICflpI/llYbkuYvpmYXvvIzmnIDml6nnk7flmagnLCBjaGFwdGVySWQ6IDMgfSwKICAgICAgeyBpZDogJ2cyJywgbmFtZTogJ+S4nOaxiemdkueTt+Wbm+ezu+e9kCcsIHllYXI6IDEwMCwgZGVzY3JpcHRpb246ICfkuJzmsYnvvIzmiJDnhp/nk7flmajlh7rnjrAnLCBjaGFwdGVySWQ6IDMgfSwKICAgICAgeyBpZDogJ2czJywgbmFtZTogJ+i2iueqkemdkumHieWIu+iKseebkicsIHllYXI6IDI1MCwgZGVzY3JpcHRpb246ICfkuInlm73vvIzkuKTmmYvlt6XoibonLCBjaGFwdGVySWQ6IDMgfSwKICAgICAgeyBpZDogJ2c0JywgbmFtZTogJ+enmOiJsueTt+WFq+ajseeTticsIHllYXI6IDg3MCwgZGVzY3JpcHRpb246ICfllJDku6PvvIzotornqpHlt4Xls7AnLCBjaGFwdGVySWQ6IDMgfSwKICAgICAgeyBpZDogJ2c1JywgbmFtZTogJ+axneeqkeWkqemdkumHiea0lycsIHllYXI6IDExMDAsIGRlc2NyaXB0aW9uOiAn5YyX5a6L77yM5LqU5aSn5ZCN56qR5LmL6aaWJywgY2hhcHRlcklkOiAzIH0sCiAgICBdLAogICAgYW5jaG9yczogWydnMyddLAogICAgaGludDogJ+mUmueCueS4pOaZi+mdkueTt+ebkuaYr+WPguiAg+eCue+8jOWJjeWQjuWQhOaciea8lOi/mycsCiAgfSwKICB7CiAgICBpZDogOCwKICAgIGNoYXB0ZXI6IDMsCiAgICBjaGFwdGVyTmFtZTogQ0hBUFRFUl9OQU1FU1syXSwKICAgIGxldmVsOiAyLAogICAgdGl0bGU6ICflrpjnqpHpo47kupEnLAogICAgYXJ0aWZhY3RzOiBbCiAgICAgIHsgaWQ6ICdoMScsIG5hbWU6ICflrpjnqpHokbXlj6PnopcnLCB5ZWFyOiAxMTAwLCBkZXNjcmlwdGlvbjogJ+WMl+Wui++8jOWumOeqkeS9k+ezu+W7uueriycsIGNoYXB0ZXJJZDogMyB9LAogICAgICB7IGlkOiAnaDInLCBuYW1lOiAn6ZKn56qR546r55Gw57Sr6YeJ55uGJywgeWVhcjogMTE1MCwgZGVzY3JpcHRpb246ICfph5Hku6PvvIzlhaXnqpHkuIDoibLlh7rnqpHkuIflvaknLCBjaGFwdGVySWQ6IDMgfSwKICAgICAgeyBpZDogJ2gzJywgbmFtZTogJ+WumueqkeeZvemHieWtqeWEv+aelScsIHllYXI6IDEwMDAsIGRlc2NyaXB0aW9uOiAn5YyX5a6L77yM5a6r5bu354+N546pJywgY2hhcHRlcklkOiAzIH0sCiAgICAgIHsgaWQ6ICdoNCcsIG5hbWU6ICfpvpnms4nnqpHnsonpnZLph4nprLInLCB5ZWFyOiAxMjUwLCBkZXNjcmlwdGlvbjogJ+WNl+Wui++8jOm+meazieeqkeeyvuWTgScsIGNoYXB0ZXJJZDogMyB9LAogICAgICB7IGlkOiAnaDUnLCBuYW1lOiAn5pmv5b636ZWH6Z2S55m96YeJ55uPJywgeWVhcjogMTAwMCwgZGVzY3JpcHRpb246ICfljJflrovvvIzlvbHpnZLnk7fku6PooagnLCBjaGFwdGVySWQ6IDMgfSwKICAgICAgeyBpZDogJ2g2JywgbmFtZTogJ+W7uueqkeWFlOavq+ebjycsIHllYXI6IDExMDAsIGRlc2NyaXB0aW9uOiAn5YyX5a6L77yM6Iy26YGT5ZCN5ZmoJywgY2hhcHRlcklkOiAzIH0sCiAgICBdLAogICAgYW5jaG9yczogWydoMycsICdoNSddLAogICAgaGludDogJ+S4pOS4qumUmueCue+8muWumueqke+8iOWMl+Wui+aXqeacn++8ieWSjOaZr+W+t+mVh+W9semdkueTt++8iOWMl+Wui++8ie+8jOmDveaYr+WMl+Wui+WZqCcsCiAgfSwKICB7CiAgICBpZDogOSwKICAgIGNoYXB0ZXI6IDMsCiAgICBjaGFwdGVyTmFtZTogQ0hBUFRFUl9OQU1FU1syXSwKICAgIGxldmVsOiAzLAogICAgdGl0bGU6ICfpnZLoirHnuqrkuosnLAogICAgYXJ0aWZhY3RzOiBbCiAgICAgIHsgaWQ6ICdpMScsIG5hbWU6ICfmma/lvrfplYfnqpHpnZLoirHokKfkvZXov73pn6nkv6EnLCB5ZWFyOiAxMzUwLCBkZXNjcmlwdGlvbjogJ+WFg+acq++8jOmdkuiKseaIkOeGn+acnycsIGNoYXB0ZXJJZDogMyB9LAogICAgICB7IGlkOiAnaTInLCBuYW1lOiAn5rC45LmQ6Z2S6Iqx5Y6L5omL5p2vJywgeWVhcjogMTQwNSwgZGVzY3JpcHRpb246ICfmmI7msLjkuZDvvIzpg5HlkozluKblvZLoi4/ms6Xli4PpnZInLCBjaGFwdGVySWQ6IDMgfSwKICAgICAgeyBpZDogJ2kzJywgbmFtZTogJ+Wuo+W+t+mdkuiKsem+mee6ueWkp+e8uCcsIHllYXI6IDE0MzAsIGRlc2NyaXB0aW9uOiAn5piO5a6j5b6377yM6Z2S6Iqx6byO55ubJywgY2hhcHRlcklkOiAzIH0sCiAgICAgIHsgaWQ6ICdpNCcsIG5hbWU6ICfmiJDljJbmlpflvanpuKHnvLjmna8nLCB5ZWFyOiAxNDgwLCBkZXNjcmlwdGlvbjogJ+aYjuaIkOWMlu+8jOaWl+W9qeW3heWzsCcsIGNoYXB0ZXJJZDogMyB9LAogICAgICB7IGlkOiAnaTUnLCBuYW1lOiAn5LiH5Y6G6Z2S6Iqx5LqU5b2p572QJywgeWVhcjogMTYwMCwgZGVzY3JpcHRpb246ICfmmI7kuIfljobvvIzpnZLoirHkuI7lvannk7fkuqTono0nLCBjaGFwdGVySWQ6IDMgfSwKICAgIF0sCiAgICBhbmNob3JzOiBbJ2kyJ10sCiAgICBoaW50OiAn5rC45LmQ6Z2S6Iqx5Y6L5omL5p2v5piv6ZSa54K577yM5piO5Luj6Z2S6Iqx5ryU5Y+Y5Y+v5L6d5q2k5o6o566XJywKICB9LAoKICAvLyDilIDilIDilIAg56ys5Zub56ug77ya57+w5aKo5Li56Z2S77yINeKAkzbku7bmlofnianvvInilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKICB7CiAgICBpZDogMTAsCiAgICBjaGFwdGVyOiA0LAogICAgY2hhcHRlck5hbWU6IENIQVBURVJfTkFNRVNbM10sCiAgICBsZXZlbDogMSwKICAgIHRpdGxlOiAn6aG+6ISJ5Y2D5bm0JywKICAgIGFydGlmYWN0czogWwogICAgICB7IGlkOiAnajEnLCBuYW1lOiAn6aG+5oG65LmL44CK5rSb56We6LWL5Zu+44CLJywgeWVhcjogNDAwLCBkZXNjcmlwdGlvbjogJ+S4nOaZi++8jOS7peW9ouWGmeelnicsIGNoYXB0ZXJJZDogNCB9LAogICAgICB7IGlkOiAnajInLCBuYW1lOiAn5bGV5a2Q6JmU44CK5ri45pil5Zu+44CLJywgeWVhcjogNTUwLCBkZXNjcmlwdGlvbjogJ+mai+S7o++8jOmdkue7v+WxseawtOW8gOWxsScsIGNoYXB0ZXJJZDogNCB9LAogICAgICB7IGlkOiAnajMnLCBuYW1lOiAn6ZiO56uL5pys44CK5q2l6L6H5Zu+44CLJywgeWVhcjogNjQwLCBkZXNjcmlwdGlvbjogJ+WUkOWIne+8jOWOhuWPsuiusOW9leeUuycsIGNoYXB0ZXJJZDogNCB9LAogICAgICB7IGlkOiAnajQnLCBuYW1lOiAn6Z+p5ruJ44CK5LqU54mb5Zu+44CLJywgeWVhcjogNzUwLCBkZXNjcmlwdGlvbjogJ+WUkOS7o+S4reacn++8jOWGmeWunuWFuOiMgycsIGNoYXB0ZXJJZDogNCB9LAogICAgICB7IGlkOiAnajUnLCBuYW1lOiAn6aG+6Zez5Lit44CK6Z+p54aZ6L295aSc5a605Zu+44CLJywgeWVhcjogOTUwLCBkZXNjcmlwdGlvbjogJ+S6lOS7o+WNl+WUkO+8jOS6uueJqeeUu+W3qOS9nCcsIGNoYXB0ZXJJZDogNCB9LAogICAgXSwKICAgIGFuY2hvcnM6IFtdLAogICAgaGludDogJ+S7juS4nOaZi+WIsOS6lOS7o++8jOS4reWbveS6uueJqeeUu+WPkeWxleiEiee7nOa4heaZsCcsCiAgfSwKICB7CiAgICBpZDogMTEsCiAgICBjaGFwdGVyOiA0LAogICAgY2hhcHRlck5hbWU6IENIQVBURVJfTkFNRVNbM10sCiAgICBsZXZlbDogMiwKICAgIHRpdGxlOiAn5bGx5rC05oSP5aKDJywKICAgIGFydGlmYWN0czogWwogICAgICB7IGlkOiAnazEnLCBuYW1lOiAn546L57u044CK6Zuq5rqq5Zu+44CLJywgeWVhcjogNzQwLCBkZXNjcmlwdGlvbjogJ+ebm+WUkO+8jOaWh+S6uueUu+WFiOmpsScsIGNoYXB0ZXJJZDogNCB9LAogICAgICB7IGlkOiAnazInLCBuYW1lOiAn6JGj5rqQ44CK5r2H5rmY5Zu+44CLJywgeWVhcjogOTMwLCBkZXNjcmlwdGlvbjogJ+S6lOS7o+WNl+WUkO+8jOaxn+WNl+WxseawtCcsIGNoYXB0ZXJJZDogNCB9LAogICAgICB7IGlkOiAnazMnLCBuYW1lOiAn5beo54S244CK56eL5bGx6Zeu6YGT5Zu+44CLJywgeWVhcjogOTYwLCBkZXNjcmlwdGlvbjogJ+WMl+Wui+WIne+8jOiRo+W3qOW5tuensCcsIGNoYXB0ZXJJZDogNCB9LAogICAgICB7IGlkOiAnazQnLCBuYW1lOiAn6IyD5a6944CK5rqq5bGx6KGM5peF5Zu+44CLJywgeWVhcjogMTAwMCwgZGVzY3JpcHRpb246ICfljJflrovvvIzlhajmma/lvI/lsbHmsLQnLCBjaGFwdGVySWQ6IDQgfSwKICAgICAgeyBpZDogJ2s1JywgbmFtZTogJ+mDreeGmeOAiuaXqeaYpeWbvuOAiycsIHllYXI6IDEwNzAsIGRlc2NyaXB0aW9uOiAn5YyX5a6L5Lit5pyf77yM5LiJ6L+c5rOVJywgY2hhcHRlcklkOiA0IH0sCiAgICAgIHsgaWQ6ICdrNicsIG5hbWU6ICfnjovluIzlrZ/jgIrljYPph4zmsZ/lsbHlm77jgIsnLCB5ZWFyOiAxMTEzLCBkZXNjcmlwdGlvbjogJ+WMl+Wui++8jOmdkue7v+WxseawtOW3qOWIticsIGNoYXB0ZXJJZDogNCB9LAogICAgXSwKICAgIGFuY2hvcnM6IFtdLAogICAgaGludDogJ+S7jueOi+e7tOWIsOeOi+W4jOWtn++8jOmdkue7v+WxseawtOS4juaWh+S6uueUu+S6pOe7h+a8lOi/mycsCiAgfSwKICB7CiAgICBpZDogMTIsCiAgICBjaGFwdGVyOiA0LAogICAgY2hhcHRlck5hbWU6IENIQVBURVJfTkFNRVNbM10sCiAgICBsZXZlbDogMywKICAgIHRpdGxlOiAn57+w5aKo6aOO6aqoJywKICAgIGFydGlmYWN0czogWwogICAgICB7IGlkOiAnbDEnLCBuYW1lOiAn546L576y5LmL44CK5YWw5Lqt5bqP44CLJywgeWVhcjogMzUzLCBkZXNjcmlwdGlvbjogJ+S4nOaZi+awuOWSjO+8jOS5puWco+ecn+i/ueaRueacrCcsIGNoYXB0ZXJJZDogNCB9LAogICAgICB7IGlkOiAnbDInLCBuYW1lOiAn5qyn6Ziz6K+i44CK5Lmd5oiQ5a6r6Ya05rOJ6ZOt44CLJywgeWVhcjogNjMyLCBkZXNjcmlwdGlvbjogJ+WUkOalt+WFuOiMg++8jOazleW6puajruS4pScsIGNoYXB0ZXJJZDogNCB9LAogICAgICB7IGlkOiAnbDMnLCBuYW1lOiAn6aKc55yf5Y2/44CK56Wt5L6E5paH56i/44CLJywgeWVhcjogNzU4LCBkZXNjcmlwdGlvbjogJ+WUkOS7o++8jOihjOS5puWkqeS4i+esrOS6jCcsIGNoYXB0ZXJJZDogNCB9LAogICAgICB7IGlkOiAnbDQnLCBuYW1lOiAn5p+z5YWs5p2D44CK546E56eY5aGU56KR44CLJywgeWVhcjogODQxLCBkZXNjcmlwdGlvbjogJ+WUkOS7o+aZmuacn++8jOWUkOalt+aUtuWumCcsIGNoYXB0ZXJJZDogNCB9LAogICAgICB7IGlkOiAnbDUnLCBuYW1lOiAn6IuP6L2844CK6buE5bee5a+S6aOf6K+X5biW44CLJywgeWVhcjogMTA4MCwgZGVzY3JpcHRpb246ICfljJflrovvvIzmlofkurrkuabms5Xpq5jls7AnLCBjaGFwdGVySWQ6IDQgfSwKICAgIF0sCiAgICBhbmNob3JzOiBbXSwKICAgIGhpbnQ6ICfkuabkvZPmvJTlj5jvvJrku47njovnvrLkuYvooYzkuabliLDoi4/ovbzmlofkurrkuabpo44nLAogIH0sCgogIC8vIOKUgOKUgOKUgCDnrKzkupTnq6DvvJrml7blhYnkuYvnu5PvvIg35Lu25paH54mpICsg5aSa6ZSa54K577yJ4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACiAgewogICAgaWQ6IDEzLAogICAgY2hhcHRlcjogNSwKICAgIGNoYXB0ZXJOYW1lOiBDSEFQVEVSX05BTUVTWzRdLAogICAgbGV2ZWw6IDEsCiAgICB0aXRsZTogJ+aWh+aYjuS6pOaxhycsCiAgICBhcnRpZmFjdHM6IFsKICAgICAgeyBpZDogJ20xJywgbmFtZTogJ+mHkeaymeWkqumYs+elnum4nycsIHllYXI6IC0xMjAwLCBkZXNjcmlwdGlvbjogJ+WVhuS7o+aZmuacn++8jOWPpOicgOaWh+aYjicsIGNoYXB0ZXJJZDogNSB9LAogICAgICB7IGlkOiAnbTInLCBuYW1lOiAn56em5aeL55qH6Zm15YW16ams5L+RJywgeWVhcjogLTIxMCwgZGVzY3JpcHRpb246ICfnp6bku6PvvIzkuJbnlYznrKzlhavlpYfov7knLCBjaGFwdGVySWQ6IDUgfSwKICAgICAgeyBpZDogJ20zJywgbmFtZTogJ+m+memXqOefs+eqn+WNouiIjemCoycsIHllYXI6IDY3NSwgZGVzY3JpcHRpb246ICfllJDku6PvvIzkvZvmlZnoibrmnK/lt4Xls7AnLCBjaGFwdGVySWQ6IDUgfSwKICAgICAgeyBpZDogJ200JywgbmFtZTogJ+OAiua4heaYjuS4iuays+WbvuOAiycsIHllYXI6IDExMDAsIGRlc2NyaXB0aW9uOiAn5YyX5a6L77yM5byg5oup56uv5a2Y5LiW5a2k5ZOBJywgY2hhcHRlcklkOiA1IH0sCiAgICAgIHsgaWQ6ICdtNScsIG5hbWU6ICfpg5HlkozkuIPkuIvopb/mtIvlrp3oiLknLCB5ZWFyOiAxNDIwLCBkZXNjcmlwdGlvbjogJ+aYjuS7o++8jOawuOS5kOebm+S4licsIGNoYXB0ZXJJZDogNSB9LAogICAgICB7IGlkOiAnbTYnLCBuYW1lOiAn5Lqs5Ymn44CK6LS15aaD6YaJ6YWS44CL5oiP5pyNJywgeWVhcjogMTc5MCwgZGVzY3JpcHRpb246ICfmuIXku6Pkub7pmobvvIzlvr3nj63ov5vkuqwnLCBjaGFwdGVySWQ6IDUgfSwKICAgICAgeyBpZDogJ203JywgbmFtZTogJ+aWsOS4reWbveW8gOWbveWkp+WFuOaWh+eMricsIHllYXI6IDE5NDksIGRlc2NyaXB0aW9uOiAn546w5Luj77yM5Lit5Y2O5rCR5peP5paw55SfJywgY2hhcHRlcklkOiA1IH0sCiAgICBdLAogICAgYW5jaG9yczogWydtMycsICdtNCddLAogICAgaGludDogJ+S4pOS4qumUmueCue+8mum+memXqOWNouiIjemCo+aYr+ebm+WUkO+8jOOAiua4heaYjuS4iuays+WbvuOAi+aYr+WMl+WuiycsCiAgfSwKICB7CiAgICBpZDogMTQsCiAgICBjaGFwdGVyOiA1LAogICAgY2hhcHRlck5hbWU6IENIQVBURVJfTkFNRVNbNF0sCiAgICBsZXZlbDogMiwKICAgIHRpdGxlOiAn5Lid6Lev6am86ZODJywKICAgIGFydGlmYWN0czogWwogICAgICB7IGlkOiAnbjEnLCBuYW1lOiAn5a6J6Ziz6Z2S6ZOc5Zmo57uE5ZCIJywgeWVhcjogLTEyMDAsIGRlc2NyaXB0aW9uOiAn5ZWG5Luj5pma5pyf77yM6Z2S6ZOc6auY5bOwJywgY2hhcHRlcklkOiA1IH0sCiAgICAgIHsgaWQ6ICduMicsIG5hbWU6ICfmlabnhYzmlofkuabnu4/ljbcnLCB5ZWFyOiA0MDAsIGRlc2NyaXB0aW9uOiAn5Lic5pmL6Iez5YyX5YeJ77yM5L2b5pWZ5Lic5LygJywgY2hhcHRlcklkOiA1IH0sCiAgICAgIHsgaWQ6ICduMycsIG5hbWU6ICfllJDku6PnkInnkoPnk7YnLCB5ZWFyOiA3MDAsIGRlc2NyaXB0aW9uOiAn5ZSQ5Luj77yM5Lid6Lev6LS45piT6KeB6K+BJywgY2hhcHRlcklkOiA1IH0sCiAgICAgIHsgaWQ6ICduNCcsIG5hbWU6ICflrovku6PmtbfoiLnpk4HplJonLCB5ZWFyOiAxMTAwLCBkZXNjcmlwdGlvbjogJ+WMl+Wui++8jOa1t+S4iuS4nei3r+WFtOi1tycsIGNoYXB0ZXJJZDogNSB9LAogICAgICB7IGlkOiAnbjUnLCBuYW1lOiAn5YWD6Z2S6Iqx5Lq654mp5pWF5LqL572QJywgeWVhcjogMTM1MCwgZGVzY3JpcHRpb246ICflhYPku6PvvIzkuK3opb/otLjmmJPnuYHnm5snLCBjaGFwdGVySWQ6IDUgfSwKICAgICAgeyBpZDogJ242JywgbmFtZTogJ+aYjuS7o+Wuo+W+t+mTnOeCiScsIHllYXI6IDE0MzAsIGRlc2NyaXB0aW9uOiAn5piO5Luj77yM5paH5oi/5riF5L6bJywgY2hhcHRlcklkOiA1IH0sCiAgICAgIHsgaWQ6ICduNycsIG5hbWU6ICfmuIXku6Plub/lvannk7fnm5gnLCB5ZWFyOiAxNzgwLCBkZXNjcmlwdGlvbjogJ+a4heS7o++8jOWklumUgOeTt+W3heWzsCcsIGNoYXB0ZXJJZDogNSB9LAogICAgXSwKICAgIGFuY2hvcnM6IFsnbjInLCAnbjUnXSwKICAgIGhpbnQ6ICfkuKTkuKrplJrngrnvvJrmlabnhYzmlofkuabvvIjkuJzmmYvvvInlkozlhYPpnZLoirHvvIjlhYPku6PvvInvvIzkuJ3ot6/ljoblj7LmuIXmmbAnLAogIH0sCiAgewogICAgaWQ6IDE1LAogICAgY2hhcHRlcjogNSwKICAgIGNoYXB0ZXJOYW1lOiBDSEFQVEVSX05BTUVTWzRdLAogICAgbGV2ZWw6IDMsCiAgICB0aXRsZTogJ+e7iOaegeaXtumXtOS5i+e7kycsCiAgICBhcnRpZmFjdHM6IFsKICAgICAgeyBpZDogJ28xJywgbmFtZTogJ+e6ouWxseaWh+WMlueOiem+mScsIHllYXI6IC0zNTAwLCBkZXNjcmlwdGlvbjogJ+aWsOefs+WZqO+8jOe6ouWxseaWh+WMluixoeW+gScsIGNoYXB0ZXJJZDogNSB9LAogICAgICB7IGlkOiAnbzInLCBuYW1lOiAn5LqM6YeM5aS06Z2S6ZOc54i1JywgeWVhcjogLTE3MDAsIGRlc2NyaXB0aW9uOiAn5aSP5Luj77yM6Z2S6ZOc56S85Zmo5LmL56WWJywgY2hhcHRlcklkOiA1IH0sCiAgICAgIHsgaWQ6ICdvMycsIG5hbWU6ICfmm77kvq/kuZnnvJbpkp8nLCB5ZWFyOiAtNDMwLCBkZXNjcmlwdGlvbjogJ+aImOWbve+8jOmfs+S5kOWlh+i/uScsIGNoYXB0ZXJJZDogNSB9LAogICAgICB7IGlkOiAnbzQnLCBuYW1lOiAn44CK6LWE5rK76YCa6Ym044CL5omL56i/JywgeWVhcjogMTA4NCwgZGVzY3JpcHRpb246ICfljJflrovvvIzlj7jpqazlhYnlv4PooYAnLCBjaGFwdGVySWQ6IDUgfSwKICAgICAgeyBpZDogJ281JywgbmFtZTogJ+aYjuS7o+OAiuawuOS5kOWkp+WFuOOAi+aui+mhtScsIHllYXI6IDE0MDgsIGRlc2NyaXB0aW9uOiAn5piO5Luj77yM5Y+k5YW455m+56eR5YWo5LmmJywgY2hhcHRlcklkOiA1IH0sCiAgICAgIHsgaWQ6ICdvNicsIG5hbWU6ICfmuIXku6PjgIrnuqLmpbzmoqbjgIvnqIvnlLLmnKwnLCB5ZWFyOiAxNzkxLCBkZXNjcmlwdGlvbjogJ+a4heS7o++8jOS4reWbveWwj+ivtOW3heWzsCcsIGNoYXB0ZXJJZDogNSB9LAogICAgICB7IGlkOiAnbzcnLCBuYW1lOiAn5rCR5Zu944CK55Sz5oql44CL5Yib5YiK5Y+3JywgeWVhcjogMTg3MiwgZGVzY3JpcHRpb246ICfov5Hku6PvvIzkuK3lm73mlrDpl7vkuJrlvIDnq68nLCBjaGFwdGVySWQ6IDUgfSwKICAgIF0sCiAgICBhbmNob3JzOiBbJ28zJywgJ280J10sCiAgICBoaW50OiAn5Lik5Liq6ZSa54K577ya5pu+5L6v5LmZ57yW6ZKf77yI5oiY5Zu977yJ5ZKM44CK6LWE5rK76YCa6Ym044CL77yI5YyX5a6L77yJ77yM6LSv56m/5LiJ5Y2D5bm05paH5piOJywKICB9LApdCgpleHBvcnQgZnVuY3Rpb24gZ2V0Q2hhcHRlckxldmVscyhjaGFwdGVyOiBudW1iZXIpOiBMZXZlbFtdIHsKICByZXR1cm4gbGV2ZWxzLmZpbHRlcihsID0+IGwuY2hhcHRlciA9PT0gY2hhcHRlcikKfQoKZXhwb3J0IGZ1bmN0aW9uIGZvcm1hdFllYXIoeWVhcjogbnVtYmVyKTogc3RyaW5nIHsKICBpZiAoeWVhciA8IDApIHJldHVybiBg5YWs5YWD5YmNJHtNYXRoLmFicyh5ZWFyKX3lubRgCiAgcmV0dXJuIGDlhazlhYMke3llYXJ95bm0YAp9Cg==
+export interface Artifact {
+  id: string
+  name: string
+  year: number
+  description: string
+  isAnchor?: boolean
+  chapterId: number
+}
+
+export interface Level {
+  id: number
+  chapter: number
+  chapterName: string
+  level: number
+  title: string
+  artifacts: Artifact[]
+  anchors: string[]  // artifact ids that are fixed anchors
+  hint?: string
+}
+
+const CHAPTER_NAMES = [
+  '青铜时代',
+  '丝路风华',
+  '瓷韵千秋',
+  '翰墨丹青',
+  '时光之结',
+]
+
+export const levels: Level[] = [
+  // ─── 第一章：青铜时代（3件文物）──────────────────────────────
+  {
+    id: 1,
+    chapter: 1,
+    chapterName: CHAPTER_NAMES[0],
+    level: 1,
+    title: '青铜之光',
+    artifacts: [
+      { id: 'a1', name: '后母戊鼎', year: -1200, description: '商代青铜器，鼎中之王', chapterId: 1 },
+      { id: 'a2', name: '四羊方尊', year: -1200, description: '商代礼器，铸于商朝晚期', chapterId: 1 },
+      { id: 'a3', name: '越王勾践剑', year: -500, description: '春秋时期青铜剑，不锈之谜', chapterId: 1 },
+    ],
+    anchors: [],
+    hint: '后母戊鼎与四羊方尊同为商代，请注意它们之间的细微年代差异',
+  },
+  {
+    id: 2,
+    chapter: 1,
+    chapterName: CHAPTER_NAMES[0],
+    level: 2,
+    title: '铭文之秘',
+    artifacts: [
+      { id: 'b1', name: '大盂鼎', year: -1000, description: '西周早期，记录康王功绩', chapterId: 1 },
+      { id: 'b2', name: '散氏盘', year: -900, description: '西周中晚期，土地契约铭文', chapterId: 1 },
+      { id: 'b3', name: '虢季子白盘', year: -800, description: '西周宣王时期，草原风格', chapterId: 1 },
+    ],
+    anchors: [],
+    hint: '三件均为西周青铜器，按早中晚期排列',
+  },
+  {
+    id: 3,
+    chapter: 1,
+    chapterName: CHAPTER_NAMES[0],
+    level: 3,
+    title: '时光洪流',
+    artifacts: [
+      { id: 'c1', name: '三星堆青铜面具', year: -1200, description: '蜀地神秘文明遗存', chapterId: 1 },
+      { id: 'c2', name: '曾侯乙编钟', year: -430, description: '战国早期，音乐奇迹', chapterId: 1 },
+      { id: 'c3', name: '王子午鼎', year: -530, description: '春秋晚期，楚式青铜', chapterId: 1 },
+    ],
+    anchors: [],
+    hint: '从蜀地到荆楚，跨越数百年的青铜记忆',
+  },
+
+  // ─── 第二章：丝路风华（4件文物 + 锚点干扰）────────────────────
+  {
+    id: 4,
+    chapter: 2,
+    chapterName: CHAPTER_NAMES[1],
+    level: 1,
+    title: '丝路起点',
+    artifacts: [
+      { id: 'd1', name: '鎏金铜蚕', year: -100, description: '汉代，养蚕业见证', chapterId: 2 },
+      { id: 'd2', name: '五星出东方锦', year: 25, description: '汉锦，蜀地精绝', chapterId: 2 },
+      { id: 'd3', name: '楼兰古城残片', year: 300, description: '魏晋，丝路遗珍', chapterId: 2 },
+      { id: 'd4', name: '唐三彩骆驼', year: 700, description: '盛唐丝绸之路象征', chapterId: 2 },
+    ],
+    anchors: ['d2'],
+    hint: '锚点五星出东方锦是东汉器物，其他文物请以它为基准推算',
+  },
+  {
+    id: 5,
+    chapter: 2,
+    chapterName: CHAPTER_NAMES[1],
+    level: 2,
+    title: '波斯来客',
+    artifacts: [
+      { id: 'e1', name: '罗马玻璃碗', year: 200, description: '东汉，罗马帝国进口', chapterId: 2 },
+      { id: 'e2', name: '波斯银币', year: 400, description: '南北朝，萨珊波斯', chapterId: 2 },
+      { id: 'e3', name: '敦煌星图', year: 700, description: '唐代，敦煌藏经洞', chapterId: 2 },
+      { id: 'e4', name: '黑石号沉船青瓷', year: 850, description: '唐代外销瓷，越窑精品', chapterId: 2 },
+    ],
+    anchors: ['e3'],
+    hint: '敦煌星图是唐代遗存，以此为锚点向外推理',
+  },
+  {
+    id: 6,
+    chapter: 2,
+    chapterName: CHAPTER_NAMES[1],
+    level: 3,
+    title: '敦煌余音',
+    artifacts: [
+      { id: 'f1', name: '敦煌帛画', year: 400, description: '北凉，佛教艺术初传', chapterId: 2 },
+      { id: 'f2', name: '敦煌壁画反弹琵琶', year: 600, description: '隋代，乐舞飞天', chapterId: 2 },
+      { id: 'f3', name: '敦煌文书', year: 900, description: '唐代，写经与契约', chapterId: 2 },
+      { id: 'f4', name: '莫高窟第17窟藏经洞', year: 1000, description: '北宋，封闭之谜', chapterId: 2 },
+    ],
+    anchors: ['f2'],
+    hint: '隋代的反弹琵琶是本章的锚点，向前后推算其他年代',
+  },
+
+  // ─── 第三章：瓷韵千秋（5–6件文物 + 锚点干扰）─────────────────
+  {
+    id: 7,
+    chapter: 3,
+    chapterName: CHAPTER_NAMES[2],
+    level: 1,
+    title: '青瓷之祖',
+    artifacts: [
+      { id: 'g1', name: '原始瓷青釉双系罐', year: -1500, description: '夏商之际，最早瓷器', chapterId: 3 },
+      { id: 'g2', name: '东汉青瓷四系罐', year: 100, description: '东汉，成熟瓷器出现', chapterId: 3 },
+      { id: 'g3', name: '越窑青釉刻花盒', year: 250, description: '三国，两晋工艺', chapterId: 3 },
+      { id: 'g4', name: '秘色瓷八棱瓶', year: 870, description: '唐代，越窑巅峰', chapterId: 3 },
+      { id: 'g5', name: '汝窑天青釉洗', year: 1100, description: '北宋，五大名窑之首', chapterId: 3 },
+    ],
+    anchors: ['g3'],
+    hint: '锚点两晋青瓷盒是参考点，前后各有演进',
+  },
+  {
+    id: 8,
+    chapter: 3,
+    chapterName: CHAPTER_NAMES[2],
+    level: 2,
+    title: '官窑风云',
+    artifacts: [
+      { id: 'h1', name: '官窑葵口碗', year: 1100, description: '北宋，官窑体系建立', chapterId: 3 },
+      { id: 'h2', name: '钧窑玫瑰紫釉盆', year: 1150, description: '金代，入窑一色出窑万彩', chapterId: 3 },
+      { id: 'h3', name: '定窑白釉孩儿枕', year: 1000, description: '北宋，宫廷珍玩', chapterId: 3 },
+      { id: 'h4', name: '龙泉窑粉青釉鬲', year: 1250, description: '南宋，龙泉窑精品', chapterId: 3 },
+      { id: 'h5', name: '景德镇青白釉盏', year: 1000, description: '北宋，影青瓷代表', chapterId: 3 },
+      { id: 'h6', name: '建窑兔毫盏', year: 1100, description: '北宋，茶道名器', chapterId: 3 },
+    ],
+    anchors: ['h3', 'h5'],
+    hint: '两个锚点：定窑（北宋早期）和景德镇影青瓷（北宋），都是北宋器',
+  },
+  {
+    id: 9,
+    chapter: 3,
+    chapterName: CHAPTER_NAMES[2],
+    level: 3,
+    title: '青花纪事',
+    artifacts: [
+      { id: 'i1', name: '景德镇窑青花萧何追韩信', year: 1350, description: '元末，青花成熟期', chapterId: 3 },
+      { id: 'i2', name: '永乐青花压手杯', year: 1405, description: '明永乐，郑和带归苏泥勃青', chapterId: 3 },
+      { id: 'i3', name: '宣德青花龙纹大缸', year: 1430, description: '明宣德，青花鼎盛', chapterId: 3 },
+      { id: 'i4', name: '成化斗彩鸡缸杯', year: 1480, description: '明成化，斗彩巅峰', chapterId: 3 },
+      { id: 'i5', name: '万历青花五彩罐', year: 1600, description: '明万历，青花与彩瓷交融', chapterId: 3 },
+    ],
+    anchors: ['i2'],
+    hint: '永乐青花压手杯是锚点，明代青花演变可依此推算',
+  },
+
+  // ─── 第四章：翰墨丹青（5–6件文物）─────────────────────────────
+  {
+    id: 10,
+    chapter: 4,
+    chapterName: CHAPTER_NAMES[3],
+    level: 1,
+    title: '顾脉千年',
+    artifacts: [
+      { id: 'j1', name: '顾恺之《洛神赋图》', year: 400, description: '东晋，以形写神', chapterId: 4 },
+      { id: 'j2', name: '展子虔《游春图》', year: 550, description: '隋代，青绿山水开山', chapterId: 4 },
+      { id: 'j3', name: '阎立本《步辇图》', year: 640, description: '唐初，历史记录画', chapterId: 4 },
+      { id: 'j4', name: '韩滉《五牛图》', year: 750, description: '唐代中期，写实典范', chapterId: 4 },
+      { id: 'j5', name: '顾闳中《韩熙载夜宴图》', year: 950, description: '五代南唐，人物画巨作', chapterId: 4 },
+    ],
+    anchors: [],
+    hint: '从东晋到五代，中国人物画发展脉络清晰',
+  },
+  {
+    id: 11,
+    chapter: 4,
+    chapterName: CHAPTER_NAMES[3],
+    level: 2,
+    title: '山水意境',
+    artifacts: [
+      { id: 'k1', name: '王维《雪溪图》', year: 740, description: '盛唐，文人画先驱', chapterId: 4 },
+      { id: 'k2', name: '董源《潇湘图》', year: 930, description: '五代南唐，江南山水', chapterId: 4 },
+      { id: 'k3', name: '巨然《秋山问道图》', year: 960, description: '北宋初，董巨并称', chapterId: 4 },
+      { id: 'k4', name: '范宽《溪山行旅图》', year: 1000, description: '北宋，全景式山水', chapterId: 4 },
+      { id: 'k5', name: '郭熙《早春图》', year: 1070, description: '北宋中期，三远法', chapterId: 4 },
+      { id: 'k6', name: '王希孟《千里江山图》', year: 1113, description: '北宋，青绿山水巨制', chapterId: 4 },
+    ],
+    anchors: [],
+    hint: '从王维到王希孟，青绿山水与文人画交织演进',
+  },
+  {
+    id: 12,
+    chapter: 4,
+    chapterName: CHAPTER_NAMES[3],
+    level: 3,
+    title: '翰墨风骨',
+    artifacts: [
+      { id: 'l1', name: '王羲之《兰亭序》', year: 353, description: '东晋永和，书圣真迹摹本', chapterId: 4 },
+      { id: 'l2', name: '欧阳询《九成宫醴泉铭》', year: 632, description: '唐楷典范，法度森严', chapterId: 4 },
+      { id: 'l3', name: '颜真卿《祭侄文稿》', year: 758, description: '唐代，行书天下第二', chapterId: 4 },
+      { id: 'l4', name: '柳公权《玄秘塔碑》', year: 841, description: '唐代晚期，唐楷收官', chapterId: 4 },
+      { id: 'l5', name: '苏轼《黄州寒食诗帖》', year: 1080, description: '北宋，文人书法高峰', chapterId: 4 },
+    ],
+    anchors: [],
+    hint: '书体演变：从王羲之行书到苏轼文人书风',
+  },
+
+  // ─── 第五章：时光之结（7件文物 + 多锚点）────────────────────
+  {
+    id: 13,
+    chapter: 5,
+    chapterName: CHAPTER_NAMES[4],
+    level: 1,
+    title: '文明交汇',
+    artifacts: [
+      { id: 'm1', name: '金沙太阳神鸟', year: -1200, description: '商代晚期，古蜀文明', chapterId: 5 },
+      { id: 'm2', name: '秦始皇陵兵马俑', year: -210, description: '秦代，世界第八奇迹', chapterId: 5 },
+      { id: 'm3', name: '龙门石窟卢舍那', year: 675, description: '唐代，佛教艺术巅峰', chapterId: 5 },
+      { id: 'm4', name: '《清明上河图》', year: 1100, description: '北宋，张择端存世孤品', chapterId: 5 },
+      { id: 'm5', name: '郑和七下西洋宝船', year: 1420, description: '明代，永乐盛世', chapterId: 5 },
+      { id: 'm6', name: '京剧《贵妃醉酒》戏服', year: 1790, description: '清代乾隆，徽班进京', chapterId: 5 },
+      { id: 'm7', name: '新中国开国大典文献', year: 1949, description: '现代，中华民族新生', chapterId: 5 },
+    ],
+    anchors: ['m3', 'm4'],
+    hint: '两个锚点：龙门卢舍那是盛唐，《清明上河图》是北宋',
+  },
+  {
+    id: 14,
+    chapter: 5,
+    chapterName: CHAPTER_NAMES[4],
+    level: 2,
+    title: '丝路驼铃',
+    artifacts: [
+      { id: 'n1', name: '安阳青铜器组合', year: -1200, description: '商代晚期，青铜高峰', chapterId: 5 },
+      { id: 'n2', name: '敦煌文书经卷', year: 400, description: '东晋至北凉，佛教东传', chapterId: 5 },
+      { id: 'n3', name: '唐代琉璃瓶', year: 700, description: '唐代，丝路贸易见证', chapterId: 5 },
+      { id: 'n4', name: '宋代海船铁锚', year: 1100, description: '北宋，海上丝路兴起', chapterId: 5 },
+      { id: 'n5', name: '元青花人物故事罐', year: 1350, description: '元代，中西贸易繁盛', chapterId: 5 },
+      { id: 'n6', name: '明代宣德铜炉', year: 1430, description: '明代，文房清供', chapterId: 5 },
+      { id: 'n7', name: '清代广彩瓷盘', year: 1780, description: '清代，外销瓷巅峰', chapterId: 5 },
+    ],
+    anchors: ['n2', 'n5'],
+    hint: '两个锚点：敦煌文书（东晋）和元青花（元代），丝路历史清晰',
+  },
+  {
+    id: 15,
+    chapter: 5,
+    chapterName: CHAPTER_NAMES[4],
+    level: 3,
+    title: '终极时间之结',
+    artifacts: [
+      { id: 'o1', name: '红山文化玉龙', year: -3500, description: '新石器，红山文化象征', chapterId: 5 },
+      { id: 'o2', name: '二里头青铜爵', year: -1700, description: '夏代，青铜礼器之祖', chapterId: 5 },
+      { id: 'o3', name: '曾侯乙编钟', year: -430, description: '战国，音乐奇迹', chapterId: 5 },
+      { id: 'o4', name: '《资治通鉴》手稿', year: 1084, description: '北宋，司马光心血', chapterId: 5 },
+      { id: 'o5', name: '明代《永乐大典》残页', year: 1408, description: '明代，古典百科全书', chapterId: 5 },
+      { id: 'o6', name: '清代《红楼梦》程甲本', year: 1791, description: '清代，中国小说巅峰', chapterId: 5 },
+      { id: 'o7', name: '民国《申报》创刊号', year: 1872, description: '近代，中国新闻业开端', chapterId: 5 },
+    ],
+    anchors: ['o3', 'o4'],
+    hint: '两个锚点：曾侯乙编钟（战国）和《资治通鉴》（北宋），贯穿三千年文明',
+  },
+]
+
+export function getChapterLevels(chapter: number): Level[] {
+  return levels.filter(l => l.chapter === chapter)
+}
+
+export function formatYear(year: number): string {
+  if (year < 0) return `公元前${Math.abs(year)}年`
+  return `公元${year}年`
+}
